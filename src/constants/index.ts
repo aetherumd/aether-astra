@@ -20,34 +20,19 @@ export const perks = [
 
 export const features = [
     {
-        icon: Icons.bolt,
-        title: "Fast Setup",
-        info: "Get your website up and running in minutes with our intuitive AI-powered builder.",
+        icon: Icons.server,
+        title: "Data Collection",
+        info: "Efficiently gather and preprocess large-scale astronomical data.",
     },
     {
-        icon: Icons.palette,
-        title: "Customizable Templates",
-        info: "Choose from a variety of stunning templates and customize them to suit your brand.",
+        icon: Icons.bolt,
+        title: "Pipeline Optimization",
+        info: "Streamline data analysis with our custom-built, high-performance algorithms.",
     },
     {
         icon: Icons.seo,
-        title: "SEO Optimized",
-        info: "Built-in SEO features ensure your website ranks well on search engines.",
-    },
-    {
-        icon: Icons.monitor,
-        title: "Responsive Design",
-        info: "Your website will look great on any device, from desktops to mobile phones.",
-    },
-    {
-        icon: Icons.shop,
-        title: "E-Commerce Ready",
-        info: "Start selling online with our e-commerce features and integrations.",
-    },
-    {
-        icon: Icons.server,
-        title: "Secure Hosting",
-        info: "Enjoy peace of mind with secure and reliable hosting for your website.",
+        title: "Lens Detection",
+        info: "Accurately identify and classify gravitational lensing events with precision.",
     },
 ];
 
@@ -113,33 +98,63 @@ export const bentoCards = [
 
 export const reviews = [
     {
-        name: "Jack",
-        username: "@jack",
-        body: "I've never seen anything like this before. It's amazing. I love it.",
+        name: "Benjamin Saenz",
+        username: "Computer Engineering",
+        body: "Web Liason",
     },
     {
-        name: "Jill",
-        username: "@jill",
-        body: "I don't know what to say. I'm speechless. This is amazing.",
+        name: "Lance Moreau",
+        username: "Physics and Astronomy",
+        body: "Mentor Liason",
     },
     {
-        name: "John",
-        username: "@john",
-        body: "I'm at a loss for words. This is amazing. I love it.",
+        name: "Ayush Mishra",
+        username: "Physics",
+        body: "Web Liason",
     },
     {
-        name: "Jane",
-        username: "@jane",
-        body: "I'm at a loss for words. This is amazing. I love it.",
+        name: "Brayson Fleegle",
+        username: "Computer Science",
+        body: "Finance Liason",
     },
     {
-        name: "Jenny",
-        username: "@jenny",
-        body: "I'm at a loss for words. This is amazing. I love it.",
+        name: "David Fritz",
+        username: "Aerospace Engineering",
+        body: "Team Liason",
     },
     {
-        name: "James",
-        username: "@james",
-        body: "I'm at a loss for words. This is amazing. I love it.",
+        name: "Georgia",
+        username: "Computer Science and Physics",
+        body: "Web Liason",
+    },
+    {
+        name: "Joseph Bailor",
+        username: "Aerospace Engineering",
+        body: "Finance Liason",
+    },
+    {
+        name: "Kevin Li",
+        username: "Computer Science",
+        body: "TBD",
+    },
+    {
+        name: "Md Rahman",
+        username: "Physics",
+        body: "TBD",
+    },
+    {
+        name: "Nicolas Preda",
+        username: "Computer Science",
+        body: "TBD",
+    },
+    {
+        name: "Sasha Brown",
+        username: "Finance",
+        body: "TBD",
+    },
+    {
+        name: "Thomas Domorad",
+        username: "Physics and Astronomy",
+        body: "Library Liason",
     },
 ];
