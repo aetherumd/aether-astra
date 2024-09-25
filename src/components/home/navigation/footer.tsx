@@ -16,10 +16,10 @@ const Footer = () => {
                         <Icons.logo className="w-7 h-7" />
                     </div>
                     <p className="text-muted-foreground mt-4 text-sm text-start">
-                        Build beautiful, functional websites, without writing code
+                        Exploring the cosmos
                     </p>
                     <span className="mt-4 text-neutral-200 text-sm flex items-center">
-                        Made in India with
+                        Made at UMD with
                         <Heart className="w-3.5 h-3.5 ml-1 fill-primary text-primary" />
                     </span>
                 </div>
@@ -28,54 +28,54 @@ const Footer = () => {
                     <div className="md:grid md:grid-cols-2 md:gap-8">
                         <div className="">
                             <h3 className="text-base font-medium text-white">
-                                Product
+                                
                             </h3>
                             <ul className="mt-4 text-sm text-muted-foreground">
                                 <li className="mt-2">
                                     <Link href="" className="hover:text-foreground transition-all duration-300">
-                                        Features
+                                        
                                     </Link>
                                 </li>
                                 <li className="mt-2">
                                     <Link href="" className="hover:text-foreground transition-all duration-300">
-                                        Pricing
+                                        
                                     </Link>
                                 </li>
                                 <li className="mt-2">
                                     <Link href="" className="hover:text-foreground transition-all duration-300">
-                                        Testimonials
+                                        
                                     </Link>
                                 </li>
                                 <li className="mt-2">
                                     <Link href="" className="hover:text-foreground transition-all duration-300">
-                                        Integration
+                                        
                                     </Link>
                                 </li>
                             </ul>
                         </div>
                         <div className="mt-10 md:mt-0 flex flex-col">
                             <h3 className="text-base font-medium text-white">
-                                Integrations
+                                
                             </h3>
                             <ul className="mt-4 text-sm text-muted-foreground">
                                 <li className="">
                                     <Link href="" className="hover:text-foreground transition-all duration-300">
-                                        Facebook
+                                        
                                     </Link>
                                 </li>
                                 <li className="mt-2">
                                     <Link href="" className="hover:text-foreground transition-all duration-300">
-                                        Instagram
+                                        
                                     </Link>
                                 </li>
                                 <li className="mt-2">
                                     <Link href="" className="hover:text-foreground transition-all duration-300">
-                                        Twitter
+                                        
                                     </Link>
                                 </li>
                                 <li className="mt-2">
                                     <Link href="" className="hover:text-foreground transition-all duration-300">
-                                        LinkedIn
+                                         
                                     </Link>
                                 </li>
                             </ul>
@@ -84,34 +84,34 @@ const Footer = () => {
                     <div className="md:grid md:grid-cols-2 md:gap-8">
                         <div className="">
                             <h3 className="text-base font-medium text-white">
-                                Resources
+                                Socials
                             </h3>
                             <ul className="mt-4 text-sm text-muted-foreground">
                                 <li className="mt-2">
                                     <Link href="" className="hover:text-foreground transition-all duration-300">
-                                        Blog
+                                        LinkedIn
                                     </Link>
                                 </li>
                                 <li className="mt-2">
-                                    <Link href="" className="hover:text-foreground transition-all duration-300">
-                                        Case Studies
-                                    </Link>
-                                </li>
-                                <li className="mt-2">
-                                    <Link href="" className="hover:text-foreground transition-all duration-300">
-                                        Support
+                                    <Link href="https://www.instagram.com/aether.umd/" className="hover:text-foreground transition-all duration-300">
+                                        Instagram
                                     </Link>
                                 </li>
                             </ul>
                         </div>
                         <div className="mt-10 md:mt-0 flex flex-col">
                             <h3 className="text-base font-medium text-white">
-                                Company
+                                Research Group
                             </h3>
                             <ul className="mt-4 text-sm text-muted-foreground">
                                 <li className="">
                                     <Link href="" className="hover:text-foreground transition-all duration-300">
                                         About Us
+                                    </Link>
+                                </li>
+                                <li className="mt-2">
+                                    <Link href="https://gemstone.umd.edu" className="hover:text-foreground transition-all duration-300">
+                                        Gemstone Page
                                     </Link>
                                 </li>
                                 <li className="mt-2">
@@ -133,7 +133,7 @@ const Footer = () => {
 
             <div className="mt-8 border-t border-border/40 pt-4 md:pt-8 md:flex md:items-center md:justify-between w-full">
                 <p className="text-sm text-muted-foreground mt-8 md:mt-0">
-                    &copy; {new Date().getFullYear()} Astra AI INC. All rights reserved.
+                    &copy; {new Date().getFullYear()} Aether. All rights reserved.
                 </p>
             </div>
 
