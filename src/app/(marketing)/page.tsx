@@ -219,7 +219,7 @@ const HomePage = () => {
                 </Container>
             </Wrapper> */}
 
-            {/* testimonials */}
+            {/* team */}
             <Wrapper className="flex flex-col items-center justify-center py-12 relative">
                 <div className="hidden md:block absolute -top-1/4 -left-1/3 w-72 h-72 bg-indigo-500 rounded-full blur-[10rem] -z-10"></div>
                 <Container>
@@ -287,6 +287,12 @@ const HomePage = () => {
                         </div>
                     </div>
                 </Container>
+                <Container>
+                    <div className="flex items-center w-full justify-center gap-x-40">
+                        <img src="gemstone-white.png" alt="Gemstone Logo" className="w-auto h-auto" />
+                        <img src="honors-college.png" alt="Honors College Logo" className="w-auto h-auto" />
+                    </div>
+                </Container>
             </Wrapper>
 
             {/* newsletter */}
@@ -305,6 +311,7 @@ const HomePage = () => {
                         </div>
                     </LampContainer>
                 </Container>
+                
                 <Container className="relative z-[999999]">
                     <div className="flex items-center justify-center w-full -mt-40">
                         <div className="flex flex-col md:flex-row items-start md:items-center justify-start md:justify-between w-full px-4 md:px-8 rounded-lg lg:rounded-2xl border border-border/80 py-4 md:py-8">
@@ -339,7 +346,6 @@ const HomePage = () => {
                     </div>
                 </Container>
             </Wrapper>
-
         </section>
     )
 };

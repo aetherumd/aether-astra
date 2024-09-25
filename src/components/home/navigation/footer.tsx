@@ -12,9 +12,9 @@ const Footer = () => {
             <div className="grid gap-8 xl:grid-cols-3 xl:gap-8 w-full">
 
                 <div className="flex flex-col items-start justify-start md:max-w-[200px]">
-                    <div className="flex items-start">
+                    {/* <div className="flex items-start">
                         <Icons.logo className="w-7 h-7" />
-                    </div>
+                    </div> */}
                     <p className="text-muted-foreground mt-4 text-sm text-start">
                         Exploring the cosmos
                     </p>
@@ -25,10 +25,10 @@ const Footer = () => {
                 </div>
 
                 <div className="grid-cols-2 gap-8 grid mt-16 xl:col-span-2 xl:mt-0">
-                    <div className="md:grid md:grid-cols-2 md:gap-8">
+                    {/* <div className="md:grid md:grid-cols-2 md:gap-8">
                         <div className="">
                             <h3 className="text-base font-medium text-white">
-                                
+                                Test
                             </h3>
                             <ul className="mt-4 text-sm text-muted-foreground">
                                 <li className="mt-2">
@@ -55,7 +55,7 @@ const Footer = () => {
                         </div>
                         <div className="mt-10 md:mt-0 flex flex-col">
                             <h3 className="text-base font-medium text-white">
-                                
+                                Test2
                             </h3>
                             <ul className="mt-4 text-sm text-muted-foreground">
                                 <li className="">
@@ -80,7 +80,7 @@ const Footer = () => {
                                 </li>
                             </ul>
                         </div>
-                    </div>
+                    </div> */}
                     <div className="md:grid md:grid-cols-2 md:gap-8">
                         <div className="">
                             <h3 className="text-base font-medium text-white">

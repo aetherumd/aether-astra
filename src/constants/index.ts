@@ -2,19 +2,19 @@ import { Icons } from "@/components";
 
 export const perks = [
     {
-        icon: Icons.auth,
-        title: "Sign Up",
-        info: "Create your free account to get started with Astra.",
+        icon: Icons.launch,
+        title: "Advance Understanding of the Universe's Origins",
+        info: "Develop a comprehensive model of the universe that simulates the formation of the first stars and galaxies, with a particular focus on gravitational lensing phenomena.",
     },
     {
         icon: Icons.customize,
-        title: "Customize",
-        info: "Choose a template and customize it to fit your needs.",
+        title: "Provide Open-Source Tools for the Astronomy Community",
+        info: "We aim to make our software pipeline publicly available to astronomers and researchers worldwide, enabling them to simulate early cosmic structures and enhance their knowledge using real-world data from the James Webb Space Telescope.",
     },
     {
-        icon: Icons.launch,
-        title: "Launch",
-        info: "Publish your website and share it with the world.",
+        icon: Icons.auth,
+        title: "Inspire Future Generations in Astrophysics",
+        info: "Our research strives to engage and inspire students and young scientists by showcasing the importance of computational astrophysics, collaboration, and the use of cutting-edge technology to answer fundamental questions about the cosmos.",
     },
 ];
 
@@ -135,22 +135,22 @@ export const reviews = [
     {
         name: "Kevin Li",
         username: "Computer Science",
-        body: "TBD",
+        body: "",
     },
     {
         name: "Md Rahman",
         username: "Physics",
-        body: "TBD",
+        body: "",
     },
     {
         name: "Nicolas Preda",
         username: "Computer Science",
-        body: "TBD",
+        body: "",
     },
     {
         name: "Sasha Brown",
         username: "Finance",
-        body: "TBD",
+        body: "",
     },
     {
         name: "Thomas Domorad",
