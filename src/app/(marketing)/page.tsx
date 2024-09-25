@@ -52,7 +52,7 @@ const HomePage = () => {
                             <div className="absolute top-1/2 left-1/2 -z-10 gradient w-3/4 -translate-x-1/2 h-3/4 -translate-y-1/2 inset-0 blur-[10rem]"></div>
                             <div className="-m-2 rounded-xl p-2 ring-1 ring-inset ring-foreground/20 lg:-m-4 lg:rounded-2xl bg-opacity-50 backdrop-blur-3xl">
                                 <img
-                                    src="/gravitational_lense.avif"
+                                    src="/gravitation-lense.png"
                                     alt="banner image"
                                     width={1200}
                                     height={1200}
@@ -124,7 +124,7 @@ const HomePage = () => {
                             <div className="absolute top-1/2 left-1/2 -z-10 gradient w-3/4 -translate-x-1/2 h-3/4 -translate-y-1/2 inset-0 blur-[10rem]"></div>
                             <div className="-m-2 rounded-xl p-2 ring-1 ring-inset ring-foreground/20 lg:-m-4 lg:rounded-2xl bg-opacity-50 backdrop-blur-3xl">
                                 <img
-                                    src={`/grav-diagram.jpg`}
+                                    src={`/grav-diagram.png`}
                                     alt="banner image"
                                     width={1200}
                                     height={1200}
@@ -285,7 +285,7 @@ const HomePage = () => {
                     </div>
                 </Container>
                 <Container>
-                    <div className="flex items-center w-full justify-center gap-x-40">
+                    <div className="flex items-center w-full justify-center gap-20">
                         <img src="gemstone-white.png" alt="Gemstone Logo" className="w-auto h-auto" />
                         <img src="honors-college.png" alt="Honors College Logo" className="w-auto h-auto" />
                     </div>
