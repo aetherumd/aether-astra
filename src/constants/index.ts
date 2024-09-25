@@ -100,37 +100,37 @@ export const reviews = [
     {
         name: "Benjamin Saenz",
         username: "Computer Engineering",
-        body: "Web Liason",
+        body: "Web Liaison",
     },
     {
         name: "Lance Moreau",
         username: "Physics and Astronomy",
-        body: "Mentor Liason",
+        body: "Mentor Liaison",
     },
     {
         name: "Ayush Mishra",
         username: "Physics",
-        body: "Web Liason",
+        body: "Web Liaison",
     },
     {
         name: "Brayson Fleegle",
         username: "Computer Science",
-        body: "Finance Liason",
+        body: "Finance Liaison",
     },
     {
         name: "David Fritz",
         username: "Aerospace Engineering",
-        body: "Team Liason",
+        body: "Team Liaison",
     },
     {
         name: "Georgia",
         username: "Computer Science and Physics",
-        body: "Web Liason",
+        body: "Web Liaison",
     },
     {
         name: "Joseph Bailor",
         username: "Aerospace Engineering",
-        body: "Finance Liason",
+        body: "Finance Liaison",
     },
     {
         name: "Kevin Li",
@@ -140,7 +140,7 @@ export const reviews = [
     {
         name: "Md Rahman",
         username: "Physics",
-        body: "",
+        body: "Mentor Liaison",
     },
     {
         name: "Nicolas Preda",
@@ -155,6 +155,6 @@ export const reviews = [
     {
         name: "Thomas Domorad",
         username: "Physics and Astronomy",
-        body: "Library Liason",
+        body: "Library Liaison",
     },
 ];
