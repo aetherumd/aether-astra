@@ -114,7 +114,7 @@ export const reviews = [
     },
     {
         name: "Brayson Fleegle",
-        username: "Computer Science",
+        username: "Mechanical Engineering",
         body: "Finance Liaison",
     },
     {
